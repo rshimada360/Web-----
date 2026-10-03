@@ -22,3 +22,7 @@ button {
 button:hover {
   background-color: #005999;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
